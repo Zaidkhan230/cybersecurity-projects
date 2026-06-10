@@ -1,6 +1,7 @@
 # Windows Endpoint Monitoring Lab
 
 Project Overview
+  
   In this project, I worked on monitoring Windows endpoint activity using Wazuh SIEM and Sysmon in a virtual lab environment.
   The setup was done using Windows Server, Ubuntu Linux, and VMware Workstation. The main goal of this project was to understand how Windows security logs and endpoint activities are monitored inside a SOC environment.
   I connected the Windows machine to the Wazuh dashboard running on Ubuntu and monitored different security events like failed logins, PowerShell activity, authentication logs, and endpoint alerts.
