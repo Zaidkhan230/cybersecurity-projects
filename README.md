@@ -1,0 +1,3 @@
+This repository contains the cybersecurity and SOC monitoring projects that I built while learning security monitoring, endpoint monitoring, SIEM tools, and threat detection concepts using virtual lab environments.
+I am currently learning and practicing different areas of cybersecurity with a strong interest in SOC operations, security monitoring, and incident analysis. Most of these projects were built using hands-on practice with Windows, Linux, Wazuh SIEM, Sysmon, and VMware.
+The goal of these projects was not only to understand the theory but also to gain practical exposure to how monitoring and security event analysis work in real environments.
