@@ -16,7 +16,7 @@ Step 1 — Created Virtual Lab Environment
   - Windows Server
 All machines were connected in the same network for communication.
 
-Step 2 — Installed Wazuh SIEM on Ubuntu
+Step 2 — Installed Wazuh SIEM on
   Ubuntu machine was used as the central SIEM server.
   Installed:
   - Wazuh Manager
